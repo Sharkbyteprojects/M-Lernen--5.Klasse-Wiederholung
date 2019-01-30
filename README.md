@@ -1,12 +1,12 @@
 # M-Lernen-5.Klasse-Wiederholung 
 
 - [Download Build](https://github.com/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung/releases/download/JAR/M-Lernen.jar) -Benötigt Oracle Java
-- [GitHub Repos](https://github.com/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung)
-- [Java für Windows](https://www.java.com/de/)
-- [REPOS ZIP](https://github.com/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung/archive/master.zip)|[TAR.GZ](https://github.com/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung/archive/master.tar.gz) - Du kannst es mit ant bauen - [ANT DOWNLOAD](https://www.apache.org/dist/ant/binaries/)
+- [GitHub Repos](https://github.com/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung){:target="_blank"}
+- [Java für Windows](https://www.java.com/de/){:target="_blank"}
+- [REPOS ZIP](https://github.com/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung/archive/master.zip)|[TAR.GZ](https://github.com/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung/archive/master.tar.gz) - Du kannst es mit ant bauen - [ANT DOWNLOAD](https://www.apache.org/dist/ant/binaries/){:target="_blank"}
 
 ---
-[Travis CI: ![BUILD Travis](https://api.travis-ci.org/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung.svg?branch=master)](https://travis-ci.org/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung)
+[Travis CI: ![BUILD Travis](https://api.travis-ci.org/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung.svg?branch=master)](https://travis-ci.org/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung){:target="_blank"}
 
 ---
 ### Lizenz:
