@@ -2,7 +2,7 @@ package gui;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
-
+import javax.swing.*;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
@@ -189,7 +189,7 @@ public class ELerner extends JFrame {
 					answ.setEditable(false);
 					varv++;
 				}else if(varv == 7){
-					//PRÜFE
+					//PRÃœFE
 					answ.setText("Sie haben " + richt + " von " + count + " Richtig!");
 					if (richt != count) {
 					   butt.setText("Erneut Spielen");
