@@ -1,0 +1,12 @@
+  language: java
+  install: ant
+  os: linux
+  script:
+    mkdir test
+    ls
+    ant
+  addons:
+  apt:
+    packages:
+      - oracle-java8-installer
+      - ant
