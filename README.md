@@ -5,4 +5,4 @@
 - [Java für Windows](https://www.java.com/de/)
 
 ---
-[Travis CI: ![BUILD Travis](https://api.travis-ci.org/Sharkbyteprojects/M-Lernen-5.Klasse-Wiederholung.svg?branch=master)](https://travis-ci.org/Sharkbyteprojects/M-Lernen-5.Klasse-Wiederholung)
+[Travis CI: ![BUILD Travis](https://api.travis-ci.org/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung.svg?branch=master)](https://travis-ci.org/Sharkbyteprojects/M-Lernen--5.Klasse-Wiederholung)
